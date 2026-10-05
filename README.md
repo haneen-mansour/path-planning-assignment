@@ -12,7 +12,7 @@ pip install -r requirements.txt
 python -m src.run --scenario 1
 ```
 
-Scenarios `1` to `25` are available. `1`-`20` are the original cases (up to 2 blue and 2 yellow cones). `21`-`25` are the new Part 2 cases (three cones on one side).
+Scenarios `1` to `23` are available. `1`-`20` are the original cases (up to 2 blue and 2 yellow cones). `21`-`23` are the new Part 2 cases (three cones on one side).
 
 ## Approach (Part 1)
 
